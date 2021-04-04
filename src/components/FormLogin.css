@@ -33,6 +33,13 @@
     outline: none;
   }
 
+  .footerLink {
+    margin: 0 auto;
+    margin-top: 20px;
+    font-size: 12px;
+text-decoration: none;
+color: black    
+  }
   
   .formPassword {
     font-size: 20px;

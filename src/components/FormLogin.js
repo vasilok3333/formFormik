@@ -59,6 +59,7 @@ const FormLogin = () => {
           <button type="submit" className="btnSign">
             <span className="btnTitle">Sign in</span>
           </button>
+          <a href="#" className="footerLink">Forgot your password?</a>
         </Form>
       </Formik>
     </>
