@@ -1,0 +1,72 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    min-width: 350px;
+    height: max-content;
+    padding: 40px;
+    background-color: #ffffff;
+    align-self: center;
+    border-radius: 5px;
+    margin: 100px 0;
+  }
+  
+  h1 {
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+  .formTitle {
+      font-size: 20px;
+      letter-spacing: 0.1em;
+      font-weight: 700;
+  }
+  
+  .formInput {
+    padding: 10px 20px;
+    border: 1px solid #e0e0e0;
+    background-color: #f5f7fa;
+    margin-top: 15px;
+    border-radius: 2px;
+    height: 30px;
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+    outline: none;
+  }
+
+  
+  .formPassword {
+    font-size: 20px;
+  }
+  
+.checkbox {
+    margin: 10px 0 25px;
+}
+
+  .fromCheckbox {
+    margin-right: 5px;
+   
+}
+  
+  
+  
+  .btnSign {
+    display: block;
+    width: 100%;
+    background: #5b54be;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    text-transform: uppercase;
+    border-radius: 4px;
+    padding: 20px 0;
+  }
+  
+  .btnTitle {
+      font-size: 16px;
+      font-weight: 500;
+  }
+  .error {
+    color: #f55656;
+    margin: 5px 7px;
+  }
